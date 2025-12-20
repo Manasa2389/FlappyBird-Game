@@ -429,4 +429,5 @@ class FlappyHandGame:
 
 if __name__ == "__main__":
     game = FlappyHandGame()
+
     game.run()
